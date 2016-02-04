@@ -22,7 +22,12 @@
     "component": {
       "scripts": [
           "jquery.ui.touch-punch.js"
-      ]
+      ],
+      "shim": {
+          "deps": [
+              "jquery"
+          ]
+      }
     }
   }
 }
