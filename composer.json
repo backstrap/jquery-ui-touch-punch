@@ -25,7 +25,7 @@
       ],
       "shim": {
           "deps": [
-              "jquery"
+              "jquery-ui"
           ]
       }
     }
