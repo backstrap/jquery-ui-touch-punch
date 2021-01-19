@@ -16,7 +16,7 @@
     "source": "https://github.com/furf/jquery-ui-touch-punch"
   },
   "require": {
-    "robloach/component-installer": "*"
+    "oomphinc/composer-installers-extender": "*"
   },
   "extra":{
     "component": {
